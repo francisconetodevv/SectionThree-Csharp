@@ -1,0 +1,15 @@
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/bin/Debug/net8.0/SecaoTres
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/bin/Debug/net8.0/SecaoTres.deps.json
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/bin/Debug/net8.0/SecaoTres.runtimeconfig.json
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/bin/Debug/net8.0/SecaoTres.dll
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/bin/Debug/net8.0/SecaoTres.pdb
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.AssemblyInfoInputs.cache
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.AssemblyInfo.cs
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.csproj.CoreCompileInputs.cache
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.sourcelink.json
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.dll
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/refint/SecaoTres.dll
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.pdb
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/SecaoTres.genruntimeconfig.cache
+/home/francisco-neto/Francisco/Dev/Development/C#/C# - Basics/SecaoTres/SecaoTres/obj/Debug/net8.0/ref/SecaoTres.dll
